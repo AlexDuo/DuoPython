@@ -7,7 +7,7 @@ import facebook
 import json
 
 # Get the token and access into the data
-graph = facebook.GraphAPI(access_token='EAACEdEose0cBAO4P8cic2ZA0jeFdi5q4ZBbzd9RZChoR316hK0OJ1qfPM87HI4859FZAUUj0aH7Wijrrv4CjeZBZBpKxqfkjZBM4tU37t0ZBBbzsZBY4x507xonjGxKe67PfBGmppAGxwvKZBxnoE01apqTNM9307xmJDTL4nPmMJhZBf5XKXOzCx6x04oS12jDHpHQaDCiRQyyfwZDZD')
+graph = facebook.GraphAPI(access_token='EAACEdEose0cBAMGvZBEmBin4ZBquSVKzQZBVWreBiPwDPwn2ETyxozkZBUblQMt88mCw3B46Ws3ZCrKQ5OmKignOuxzeZAAWUlRSeMIJHfZBYtaaL1p9yFo86eWeinDT7xqfiRwDHzWb5J33EuRwLeyVkm5cTDF6vnQB841tBUDFxztpQgjzM9LItMGmFY3fiVhPeYM371xsgZDZD')
 
 # call the get_object method ('whose info me&id' fields(multiple) or field(single))
 info = graph.get_object('me',fields = 'age_range,name,location{location},devices')
