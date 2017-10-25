@@ -17,7 +17,7 @@ print(list_1.union(list_2))
 # list1和list2的差集 即在1中有的元素在2中没有 或在2中有在1中没有的元素
 print(list_1.difference(list_2))
 print(list_2.difference(list_1))
-# 取子集 返回结果是 true 或者flase
+# 取子集 返回结果是 true 或者
 
 print(list_1.issubset(list_2))
 
