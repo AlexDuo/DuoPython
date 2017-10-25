@@ -53,3 +53,22 @@ list_8.add(9)
 print(list_8)
 list_8.update([10,11,12])
 print(list_8)
+list_a = set([1,1,2,3,4])
+# 删除某项元素
+list_a.remove(1)
+print(list_a)
+print(len(list_a))
+
+print(3 in list_a)
+print(1 not in list_a)
+
+print(list_a.pop())
+print(list_a)
+# 从这里可以看出remove he discard的结果是一样的，都是删除指定值
+list_b = set([2,3,4,5])
+list_b.remove(5)
+print(list_b)
+list_b.discard(6)
+print(list_b)
+# list_b.remove(9) 这里指出了 remove和discard的却别，discard指定要删除的值不在集合内的时候，不作为，当调用remove删除
+# 指定值时，如果指定值不在集合内则报错。
