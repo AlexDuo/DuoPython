@@ -34,6 +34,22 @@ print(list_4.symmetric_difference(list_3))
 
 list_5 = set([1,2,3])
 list_6 = set([4,5,6])
+list_7 = set([1,2,3,4,5])
+list_8 = set([4,5,6,7,8])
 
 print(list_5.isdisjoint(list_6))
 print(list_3.isdisjoint(list_4))
+# 这个做法和intersection是一样的，取交集
+print(list_1 & list_2)
+# 并集
+print(list_5 | list_6)
+# 差集
+print(list_7 - list_8)
+print(list_8 - list_7)
+# 对称差集
+print(list_7 ^ list_8)
+
+list_8.add(9)
+print(list_8)
+list_8.update([10,11,12])
+print(list_8)
