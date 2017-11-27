@@ -5,46 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55fc9b00-d136-4da6-bf98-89423c155fc4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/Victory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/file_modify.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/file_modify_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/sbchickensoup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/stdout.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/with_open_eg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4Character_encoding_and_transform/unicode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5Function/process_and_function.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5Function/why_we_should_use_function.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/Victory" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Data_Capture/facebook_api.py" afterPath="$PROJECT_DIR$/Data_Capture_Demo_Facebook/facebook_api.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Data_Capture/facebook_test.py" afterPath="$PROJECT_DIR$/Data_Capture_Demo_Facebook/facebook_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Data_Capture/html_capture.py" afterPath="$PROJECT_DIR$/Data_Capture_Demo_Facebook/html_capture.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Data_Capture/jsontocsv.py" afterPath="$PROJECT_DIR$/Data_Capture_Demo_Facebook/jsontocsv.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/Module.py" afterPath="$PROJECT_DIR$/2Day02/Module.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/Ternary_operation.py" afterPath="$PROJECT_DIR$/2Day02/Ternary_operation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/Three_level_menu.py" afterPath="$PROJECT_DIR$/2Day02/Three_level_menu.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/Tuple.py" afterPath="$PROJECT_DIR$/2Day02/Tuple.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/circulation.py" afterPath="$PROJECT_DIR$/2Day02/circulation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/copy_test.py" afterPath="$PROJECT_DIR$/2Day02/copy_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/dictionary_01.py" afterPath="$PROJECT_DIR$/2Day02/dictionary_01.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/dictionary_02.py" afterPath="$PROJECT_DIR$/2Day02/dictionary_02.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/list_test.py" afterPath="$PROJECT_DIR$/2Day02/list_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/names.py" afterPath="$PROJECT_DIR$/2Day02/names.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/shopping_cart.py" afterPath="$PROJECT_DIR$/2Day02/shopping_cart.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/shopping_test.py" afterPath="$PROJECT_DIR$/2Day02/shopping_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/special_list.py" afterPath="$PROJECT_DIR$/2Day02/special_list.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day02/type_bytes.py" afterPath="$PROJECT_DIR$/2Day02/type_bytes.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/dieyoung" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/dieyoung" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/file_manupulate.py" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/file_manupulate.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/file_manupulate_2.py" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/file_manupulate_2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/set_of_python.py" afterPath="$PROJECT_DIR$/3file_manupulate_Day03/set_of_python.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day_01/forloop.py" afterPath="$PROJECT_DIR$/1Day_01/forloop.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day_01/forloop2.py" afterPath="$PROJECT_DIR$/1Day_01/forloop2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day_01/guess.py" afterPath="$PROJECT_DIR$/1Day_01/guess.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day_01/interaction.py" afterPath="$PROJECT_DIR$/1Day_01/interaction.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day_01/loop3.py" afterPath="$PROJECT_DIR$/1Day_01/loop3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day_01/passwd.py" afterPath="$PROJECT_DIR$/1Day_01/passwd.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day_01/var.py" afterPath="$PROJECT_DIR$/1Day_01/var.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day_01/while.py" afterPath="$PROJECT_DIR$/1Day_01/while.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +33,7 @@
       <file leaf-file-name="set_of_python.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3file_manupulate_Day03/set_of_python.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3300">
+            <state relative-caret-position="0">
               <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
@@ -83,7 +43,7 @@
       <file leaf-file-name="unicode.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4Character_encoding_and_transform/unicode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
+            <state relative-caret-position="1050">
               <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
               <folding />
             </state>
@@ -103,7 +63,7 @@
       <file leaf-file-name="why_we_should_use_function.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/5Function/why_we_should_use_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-394">
+            <state relative-caret-position="42">
               <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
@@ -113,8 +73,8 @@
       <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5Function/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,30 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file_manupulate_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3file_manupulate_Day03/file_manupulate_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file_modify_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3file_manupulate_Day03/file_modify_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="with_open_eg.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3file_manupulate_Day03/with_open_eg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
+            <state relative-caret-position="714">
               <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding />
             </state>
@@ -163,7 +103,7 @@
       <file leaf-file-name="stdout.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3file_manupulate_Day03/stdout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
+            <state relative-caret-position="462">
               <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="19" />
               <folding />
             </state>
@@ -203,6 +143,8 @@
         <option value="$PROJECT_DIR$/Character_encoding_and_transform/unicode.py" />
         <option value="$PROJECT_DIR$/5Function/process_and_function.py" />
         <option value="$PROJECT_DIR$/5Function/why_we_should_use_function.py" />
+        <option value="$PROJECT_DIR$/NBA_Player_salary_to_csv/to_csv.py" />
+        <option value="$PROJECT_DIR$/NBA_Player_salary_to_csv/test.py" />
       </list>
     </option>
   </component>
@@ -212,11 +154,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="875" />
-    <option name="y" value="1061" />
-    <option name="width" value="2306" />
-    <option name="height" value="848" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1102" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -234,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -247,6 +188,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -396,15 +338,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3872" height="2192" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20260416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.240625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36760926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36760926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -432,21 +374,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data_Capture_Demo_Facebook/jsontocsv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2Day02/Three_level_menu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1Day_01/forloop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -697,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,21 +638,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3file_manupulate_Day03/file_modify_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="378">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3file_manupulate_Day03/set_of_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3300">
+        <state relative-caret-position="0">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
@@ -735,7 +658,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4Character_encoding_and_transform/unicode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
+        <state relative-caret-position="1050">
           <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
           <folding />
         </state>
@@ -759,7 +682,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3file_manupulate_Day03/with_open_eg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
+        <state relative-caret-position="714">
           <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding />
         </state>
@@ -767,7 +690,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3file_manupulate_Day03/stdout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
+        <state relative-caret-position="462">
           <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="19" />
           <folding />
         </state>
@@ -775,15 +698,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5Function/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NBA_Player_salary_to_csv/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NBA_Player_salary_to_csv/to_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5Function/why_we_should_use_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-394">
+        <state relative-caret-position="42">
           <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding />
         </state>
