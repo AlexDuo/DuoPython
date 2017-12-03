@@ -4,18 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/3file_manupulate_Day03/set_of_python.py" line="65" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55fc9b00-d136-4da6-bf98-89423c155fc4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/Iterator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/Json_Deserialization.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/Json_Serialization.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/Pickle_Deserialization2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/Pickle_Serialization2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/buildin_functions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/fibonacci.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/parallel.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Decorator/generatelist.py" afterPath="$PROJECT_DIR$/Decorator/generatelist.py" />
-    </list>
+    <list default="true" id="55fc9b00-d136-4da6-bf98-89423c155fc4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -257,6 +246,28 @@
               <item name="DuoPython" type="462c0819:PsiDirectoryNode" />
               <item name="Decorator" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DuoPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="DuoPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5.4 (D:\Python3.5\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="DuoPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5.4 (D:\Python3.5\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
+            </path>
+            <path>
+              <item name="DuoPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5.4 (D:\Python3.5\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
+              <item name="asyncio" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -434,9 +445,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16822916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16822916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
